@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on maintaining Popularin Kotlin
+- 🔭 I’m currently working on developing Kelasan API
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate on native Kotlin Android development with MVVM architecture
 - 🤔 I’m looking for help with Flutter development
