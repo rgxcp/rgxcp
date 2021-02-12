@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing [Kelasan](https://github.com/rgxcp/Kelasan)
+- 🔭 I’m currently working on developing [Lelangin API](https://github.com/rgxcp/lelangin-api)
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate on native Kotlin Android development with MVVM architecture
 - 🤔 I’m looking for help with Flutter development
