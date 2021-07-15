@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing [Lelangin](https://github.com/rgxcp/Lelangin)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Ruby on #GenerasiGIGIH
 - 👯 I’m looking to collaborate on native Kotlin Android development with MVVM architecture
 - 🤔 I’m looking for help with web socket development
 - 💬 Ask me about native Android development (Java and/or Kotlin) & RESTful API development
