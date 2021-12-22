@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Rails
 - 👯 I’m looking to collaborate on RESTful API development
 - 🤔 I’m looking for help developing cross-platform mobile apps using Flutter
-- 💬 Ask me about RESTful API & native Android development (Java and/or Kotlin) development
+- 💬 Ask me about RESTful API & native Android (Java and/or Kotlin) development
 - 📫 How to reach me: mail me at rgcppp@gmail.com
