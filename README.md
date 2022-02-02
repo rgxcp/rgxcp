@@ -1,6 +1,6 @@
 ### Hello, Travelers! 👋
 
-- 🔭 I’m currently working on developing [Wikalpa](https://github.com/rgxcp/wikalpa)
+- 🔭 I’m currently working on maintaining [Wikalpa](https://github.com/rgxcp/wikalpa)
 - 🌱 I’m currently learning [Go](https://github.com/rgxcp/golearn)
 - 👯 I’m looking to collaborate on RESTful API development
 - 🤔 I’m looking for help developing cross-platform mobile apps using Flutter
