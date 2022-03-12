@@ -1,5 +1,7 @@
 ### Hello, Travelers! 👋
 
+##### 📸 Please say **CHEESE** (with a big smile)! [Freddie Quell](https://en.wikipedia.org/wiki/The_Master_(2012_film)) is taking a photo of you.
+
 - 🔭 I’m currently working on maintaining [Wikalpa](https://github.com/rgxcp/wikalpa)
 - 🌱 I’m currently learning [Go](https://github.com/rgxcp/golearn)
 - 👯 I’m looking to collaborate on RESTful API development
